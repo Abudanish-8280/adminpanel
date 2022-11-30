@@ -42,10 +42,10 @@ export default function Footer() {
           <Link
             mx='3px'
             color={textColor}
-            href='https://www.simmmple.com'
+            href='#'
             target='_blank'
             fontWeight='700'>
-            Simmmple!
+            mdwebmaker
           </Link>
         </Text>
       </Text>

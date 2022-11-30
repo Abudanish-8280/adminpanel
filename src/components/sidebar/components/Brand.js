@@ -13,8 +13,9 @@ export function SidebarBrand() {
 
   return (
     <Flex align='center' direction='column'>
-      <HorizonLogo h='26px' w='175px' my='32px' color={logoColor} />
-      <HSeparator mb='20px' />
+      <h1 className="logo">mdwebmaker</h1>
+      {/* <HorizonLogo h='26px' w='175px' my='32px' color={logoColor} />
+      <HSeparator mb='20px' /> */}
     </Flex>
   );
 }
